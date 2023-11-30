@@ -2,6 +2,6 @@
 2. Cleaning
 3. EDA
 4. Feature engineer biến động giá cổ phiếu
-5. Build model
+5. Build model: SARIMA, LSTM,GRU
 6. Đánh giá mô hình
 7. Dư báo 30 ngày tiếp theo và so sánh kết quả các mô hình
